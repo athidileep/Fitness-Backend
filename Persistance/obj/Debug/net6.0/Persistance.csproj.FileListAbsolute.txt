@@ -1,0 +1,16 @@
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\bin\Debug\net6.0\Persistance.deps.json
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\bin\Debug\net6.0\Persistance.dll
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\bin\Debug\net6.0\Persistance.pdb
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\bin\Debug\net6.0\Domain.dll
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\bin\Debug\net6.0\Domain.pdb
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\obj\Debug\net6.0\Persistance.sourcelink.json
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\obj\Debug\net6.0\Persista.3F568332.Up2Date
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\obj\Debug\net6.0\Persistance.dll
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\obj\Debug\net6.0\Persistance.pdb
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Persistance\obj\Debug\net6.0\ref\Persistance.dll

@@ -1,0 +1,16 @@
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\bin\Debug\net6.0\Services.Abstraction.deps.json
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\bin\Debug\net6.0\Services.Abstraction.dll
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\bin\Debug\net6.0\Services.Abstraction.pdb
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\bin\Debug\net6.0\Domain.dll
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\bin\Debug\net6.0\Domain.pdb
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\obj\Debug\net6.0\Services.Abstraction.csproj.AssemblyReference.cache
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\obj\Debug\net6.0\Services.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\obj\Debug\net6.0\Services.Abstraction.AssemblyInfoInputs.cache
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\obj\Debug\net6.0\Services.Abstraction.AssemblyInfo.cs
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\obj\Debug\net6.0\Services.Abstraction.csproj.CoreCompileInputs.cache
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\obj\Debug\net6.0\Services.Abstraction.sourcelink.json
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\obj\Debug\net6.0\Services.4D1A1826.Up2Date
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\obj\Debug\net6.0\Services.Abstraction.dll
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\obj\Debug\net6.0\refint\Services.Abstraction.dll
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\obj\Debug\net6.0\Services.Abstraction.pdb
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Services.Abstraction\obj\Debug\net6.0\ref\Services.Abstraction.dll

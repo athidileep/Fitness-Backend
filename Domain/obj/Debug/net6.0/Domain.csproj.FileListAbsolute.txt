@@ -1,0 +1,12 @@
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Domain\bin\Debug\net6.0\Domain.dll
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Domain\bin\Debug\net6.0\Domain.pdb
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Domain\obj\Debug\net6.0\Domain.dll
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Domain\obj\Debug\net6.0\Domain.pdb
+D:\BITSPilani\sourcecode\FitnessStudio\ApplicationService\Domain\obj\Debug\net6.0\ref\Domain.dll
